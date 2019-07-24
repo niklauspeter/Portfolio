@@ -2687,7 +2687,8 @@ h6 {
 /* Start Newsletter Area css
 ============================================================================================ */
 .newsletter-area {
-  background-image: url(../img/newsletter-bg1.jpg);
+  background-image: url(../img/pu.jpg);
+  margin-bottom: 30px;
   background-size: cover; }
   .newsletter-area .main-title h1 {
     color: #fff; }
